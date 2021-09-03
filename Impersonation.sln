@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Impersonate", "Impersonate\Impersonate.csproj", "{1F441D46-5636-46FC-849F-329C5AA94D34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfImpersonate", "WpfImpersonate\WpfImpersonate.csproj", "{423EE0A1-A884-4E41-9563-C1E1AB6031BB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F5BFD1EC-05F5-484E-8F52-A11341C3644A}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F441D46-5636-46FC-849F-329C5AA94D34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F441D46-5636-46FC-849F-329C5AA94D34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F441D46-5636-46FC-849F-329C5AA94D34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F441D46-5636-46FC-849F-329C5AA94D34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{423EE0A1-A884-4E41-9563-C1E1AB6031BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{423EE0A1-A884-4E41-9563-C1E1AB6031BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{423EE0A1-A884-4E41-9563-C1E1AB6031BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{423EE0A1-A884-4E41-9563-C1E1AB6031BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FEC1534-41FE-4135-AFEF-667B25371D37}
+	EndGlobalSection
+EndGlobal
